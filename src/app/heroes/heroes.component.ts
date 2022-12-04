@@ -12,5 +12,5 @@ export class HeroesComponent implements OnInit {
   ngOnInit(): void {
   }
 
-  hero = 'Este es mi componente Heroes';
+  hero = '¡Este componente Heroes ha sido actualizado y ahora es más fuerte!';
 }
